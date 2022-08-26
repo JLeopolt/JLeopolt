@@ -1,4 +1,4 @@
-Hello, I am Leopolt! Welcome to my GitHub Page!
+Hello, I am Leopolt!
 
 Who I Am:
 - Founder of PyroNeon Software https://www.pyroneon.ml
@@ -9,11 +9,11 @@ About Me:
 - Newbie at full-stack developing
 - I enjoy creating digital media (Graphic Design, Web Design, Music, and Video Editing)
 - Check out my SoundCloud - https://soundcloud.com/jleopolt
-- I also enjoy electrical engineering and chemistry!
+- I also enjoy fields of science, like electrical engineering and chemistry!
 
 Some of my best work:
 - Utility Discord Bot
-- Custom Minecraft Gameplay Plugin 'Scraps'
-- PyroNeon Website
-- Puzzle Minefield (Alpha free to download right now!)
-- CLIPnP (Alpha free to download right now!)
+- Custom Minecraft Gameplay Plugin 'Scraps' https://www.pyroneon.ml/scraps
+- PyroNeon Website https://www.pyroneon.ml
+- Puzzle Minefield https://www.pyroneon.ml/PuzzleMinefield
+- CLIPnP https://www.pyroneon.ml/clipnp
