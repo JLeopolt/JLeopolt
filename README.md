@@ -9,7 +9,7 @@ About Me:
 - Newbie at full-stack developing.
 - Experience with SQL/MySQL and networking.
 - Learning about REST APIs, cybersecurity.
-- I enjoy creating digital media (Graphic Design, Web Design, Music, and Video Editing).
+- I enjoy creating digital art (Graphic Design, Web Design, Music, and Video Editing).
 - I also love science, especially electrical engineering and chemistry.
 
 Unreleased Projects:
