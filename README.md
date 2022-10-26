@@ -1,21 +1,24 @@
-Hello, I am Leopolt!
+Greetings, I'm JLeopolt! But you, my friend, can call me Leopolt, or Leo for short. I also go by 'JPolt'.
 
 Who I Am:
 - Founder of PyroNeon Software https://www.pyroneon.ml
+- Independent Developer
 
 About Me:
-- Interested in Computer Programming
-- Proficient in Java language
-- Newbie at full-stack developing
-- Experience with SQL and networking
-- Learning about REST APIs, authentication
-- I enjoy creating digital media (Graphic Design, Web Design, Music, and Video Editing)
-- Check out my SoundCloud - https://soundcloud.com/jleopolt
-- I also enjoy fields of science, like electrical engineering and chemistry!
+- Proficient in Java language.
+- Newbie at full-stack developing.
+- Experience with SQL/MySQL and networking.
+- Learning about REST APIs, cybersecurity.
+- I enjoy creating digital media (Graphic Design, Web Design, Music, and Video Editing).
+- I also love science, especially electrical engineering and chemistry.
 
-Some of my best work:
-- Utility Discord Bot
+Unreleased Projects:
+- Utility Discord Bot (WIP)
+- PyroNeon Authentication API (WIP)
+
+My Best Work:
 - Scraps https://www.pyroneon.ml/scraps
-- PyroNeon Website https://www.pyroneon.ml
 - Puzzle Minefield https://www.pyroneon.ml/PuzzleMinefield
+- PyroNeon Website https://www.pyroneon.ml
 - CLIPnP https://www.pyroneon.ml/clipnp
+- Check out my OST's at https://soundcloud.com/jleopolt
