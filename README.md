@@ -14,9 +14,9 @@ About Me:
 
 Unreleased Projects:
 - Utility Discord Bot (WIP)
-- PyroNeon Authentication API (WIP)
 
 My Best Work:
+- PyroNeon Authentication API https://www.pyroneon.ml/accounts/register
 - Scraps https://www.pyroneon.ml/scraps
 - Puzzle Minefield https://www.pyroneon.ml/PuzzleMinefield
 - PyroNeon Website https://www.pyroneon.ml
