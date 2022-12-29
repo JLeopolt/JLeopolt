@@ -1,4 +1,4 @@
-Greetings, I'm JLeopolt! But you, my friend, can call me Leopolt, or Leo for short. I also go by 'JPolt'.
+Greetings, I'm JLeopolt! But you, my friend, can call me Leopolt, or Leo for short. I would also accept 'JPolt'. I am known by many names, but the person you're talking to is the one and only!
 
 Who I Am:
 - Founder of PyroNeon Software https://www.pyroneon.ml
@@ -6,14 +6,14 @@ Who I Am:
 
 About Me:
 - Proficient in Java language.
-- Newbie at full-stack developing.
+- Newbie to cybersecurity and programming NodeMCU microcontrollers.
+- Rookie at full-stack development, and REST APIs.
 - Experience with SQL/MySQL and networking.
-- Learning about REST APIs, cybersecurity.
-- I enjoy creating digital art (Graphic Design, Web Design, Music, and Video Editing).
+- I used to make and edit youtube videos and memes.
+- Sometimes I like to make music.
 - I also love science, especially electrical engineering and chemistry.
 
-Unreleased Projects:
-- Utility Discord Bot (WIP)
+Upcoming Projects:
 - PyroNeon Games API
 
 My Best Work:
