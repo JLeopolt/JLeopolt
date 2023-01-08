@@ -14,7 +14,7 @@ About Me:
 - I also love science, especially electrical engineering and chemistry.
 
 Upcoming Projects:
-- PyroNeon Games API
+- Updating Puzzle Minefield!
 
 My Best Work:
 - PyroNeon Authentication API https://www.pyroneon.ml/accounts/register
