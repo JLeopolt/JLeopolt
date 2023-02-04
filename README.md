@@ -7,7 +7,7 @@ Who I Am:
 About Me:
 - Proficient in Java language.
 - Newbie to cybersecurity and programming NodeMCU microcontrollers.
-- Rookie at full-stack development, and REST APIs.
+- Rookie at full-stack development, Python, and REST APIs.
 - Experience with SQL/MySQL and networking.
 - I used to make and edit youtube videos and memes.
 - Sometimes I like to make music.
