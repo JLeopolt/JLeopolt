@@ -14,6 +14,7 @@ About Me:
 - I also love science, especially electrical engineering and chemistry.
 
 Upcoming Projects:
+- BLOB Multimedia Utility Tool
 - Updating Puzzle Minefield!
 
 My Best Work:
