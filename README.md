@@ -1,6 +1,6 @@
-Greetings, I'm JLeopolt! But you, my friend, can call me Leopolt, or Leo for short. I would also accept 'JPolt'. I am known by many names, but the person you're talking to is the one and only!
+Greetings, I'm JLeopolt! But you, my friend, can call me Leopolt, or Leo for short. I would also accept 'JPolt'.
 
-Who I Am:
+<h2>Who I Am:</h2>
 - Founder of PyroNeon Software https://www.pyroneon.ml
 - Independent Developer
 
