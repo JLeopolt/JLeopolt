@@ -3,7 +3,7 @@
 <h2 align="center">Who I Am:</h2>
 <p align="center">
 - Founder of <a href="https://www.pyroneon.ml">PyroNeon Software</a> <br>
-- Independent Developer <br>
+- Indie Software Developer <br>
 </p>
 
 <h2 align="center">About Me:</h2>
@@ -17,10 +17,10 @@
 - I also enjoy electrical engineering and chemistry. <br>
 </p>
 
-<h2 align="center">Upcoming Projects:</h2>
+<h2 align="center">What I'm Currently Working On:</h2>
 <p align="center">
-- BLOB Multimedia Utility Tool <br>
-- Updating Puzzle Minefield! <br>
+- Multimedia Utility Downloader Tool <br>
+- Puzzle Minefield <br>
 </p>
 
 <h2 align="center">My Best Work:</h2>
@@ -30,5 +30,6 @@
  <a href="https://www.pyroneon.ml/PuzzleMinefield">Puzzle Minefield</a> <br>
  <a href="https://www.pyroneon.ml">PyroNeon Website</a> | 
  <a href="https://www.pyroneon.ml/clipnp">CLIPnP</a> | 
+ <a href="https://www.pyroneon.ml/mudtool">MUD Tool</a> | 
  <a href="https://soundcloud.com/jleopolt">Check out my OST's</a>  <br>
 </p>
