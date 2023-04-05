@@ -8,18 +8,16 @@
 
 <h2 align="center">About Me:</h2>
 <p align="center">
-- Proficient in Java language. <br>
+- Proficient in Java and Python languages. <br>
 - Newbie to cybersecurity and microcontrollers. <br>
-- Rookie at full-stack development, Python, and REST APIs. <br>
+- Full-stack and REST API developer. <br>
 - Experience with SQL/MySQL and networking. <br>
-- I used to make and edit youtube videos. <br>
 - Sometimes I make music for my projects. <br>
 - I also enjoy electrical engineering and chemistry. <br>
 </p>
 
 <h2 align="center">What I'm Currently Working On:</h2>
 <p align="center">
-- Multimedia Utility Downloader Tool <br>
 - Puzzle Minefield <br>
 </p>
 
