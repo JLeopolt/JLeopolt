@@ -18,6 +18,7 @@
 
 <h2 align="center">What I'm Currently Working On:</h2>
 <p align="center">
+- Hardware <br>
 - Puzzle Minefield <br>
 </p>
 
