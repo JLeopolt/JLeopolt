@@ -8,7 +8,7 @@
 
 <h2 align="center">About Me:</h2>
 <p align="center">
-- Proficient in Java and Python languages. <br>
+- Proficient in Java, Python, JS languages. <br>
 - Newbie to cybersecurity and microcontrollers. <br>
 - Full-stack and REST API developer. <br>
 - Experience with SQL/MySQL and networking. <br>
@@ -18,8 +18,8 @@
 
 <h2 align="center">What I'm Currently Working On:</h2>
 <p align="center">
-- Hardware <br>
-- Puzzle Minefield <br>
+- SCRAPS <br>
+- PyroNeon.net Forums <br>
 </p>
 
 <h2 align="center">My Best Work:</h2>
