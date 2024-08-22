@@ -18,8 +18,8 @@
 
 <h2 align="center">What I'm Currently Working On:</h2>
 <p align="center">
-- SCRAPS <br>
 - PyroNeon.net Forums <br>
+- SCRAPS <br>
 </p>
 
 <h2 align="center">My Best Work:</h2>
